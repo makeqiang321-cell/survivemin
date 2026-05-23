@@ -2,22 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://survivemin.live/</loc>
-    <lastmod>2026-05-22</lastmod>
+    <loc>https://www.survivemin.online/</loc>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://survivemin.live/privacy.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <loc>https://www.survivemin.online/index.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.survivemin.online/privacy.html</loc>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://survivemin.live/terms.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <loc>https://www.survivemin.online/terms.html</loc>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>

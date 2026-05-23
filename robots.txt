@@ -3,4 +3,4 @@ Allow: /
 Disallow: /privacy.html
 Disallow: /terms.html
 
-Sitemap: https://survivemin.live/sitemap.xml
+Sitemap: https://www.survivemin.online/sitemap.xml
