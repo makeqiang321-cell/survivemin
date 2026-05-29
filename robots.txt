@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /privacy.html
-Disallow: /terms.html
 
-Sitemap: https://www.survivemin.online/sitemap.xml
+Sitemap: https://www.survivemin.net/survivemin-net-sitemap.xml
